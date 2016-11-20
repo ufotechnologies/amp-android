@@ -36,6 +36,10 @@ Create your [Custom Search Engine](https://www.google.com/cse/) configured to [S
 
 * Slack interactive messages
 
+##### v1.3.x:
+
+* Spotify Radio fallback
+
 ## Feedback
 
 Please file feedback about missing features or bugs over at our [issue tracker](https://github.com/ufotechnologies/amp-android/issues), making sure you search for existing issues and adding your voice to those rather than duplicating.
