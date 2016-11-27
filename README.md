@@ -64,6 +64,7 @@ Please file feedback about missing features or bugs over at our [issue tracker](
 * Code samples for [Android NDK](https://github.com/googlesamples/android-ndk)
 * Code samples for [Google Cast v3](https://github.com/googlecast)
 * Android Developers [Managing Audio Focus](https://developer.android.com/training/managing-audio/audio-focus.html)
+* Android Developers [Keeping the Device Awake](https://developer.android.com/training/scheduling/wakelock.html)
 
 ## Links
 
