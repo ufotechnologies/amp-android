@@ -40,6 +40,11 @@ Create your [Custom Search Engine](https://www.google.com/cse/) configured to [S
 
 * Spotify Radio fallback
 
+##### v2.0.x:
+
+* DJ mode
+* Advanced playback controls
+
 ## Feedback
 
 Please file feedback about missing features or bugs over at our [issue tracker](https://github.com/ufotechnologies/amp-android/issues), making sure you search for existing issues and adding your voice to those rather than duplicating.
