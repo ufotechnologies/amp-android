@@ -4,7 +4,7 @@
 
 * Integration with [libspotify](https://developer.spotify.com/technologies/libspotify/) 12.1.51 (deprecated)
 * Stream playback to Chromecast with [libFLAC](https://xiph.org/flac/api/)
-* Low-latency playback with [OpenSL](https://developer.android.com/ndk/guides/audio/opensl-for-android.html)
+* Low-latency playback with [OpenSL ES](https://developer.android.com/ndk/guides/audio/opensl-for-android.html)
 * Integration with [Slack RTM API](https://api.slack.com/rtm)
 * Integration with [Twitter Streaming API](https://dev.twitter.com/streaming/overview)
 * Integration with [Google CSE API](https://developers.google.com/custom-search/json-api/v1/overview) for spelling correction
