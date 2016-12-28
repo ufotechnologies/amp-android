@@ -26,17 +26,22 @@ Create your [Custom Search Engine](https://www.google.com/cse/) configured to [S
 
 ##### v1.1.x:
 
+* Android TV support
 * Receiver improvements
+* User-interface improvements
+
+##### v1.2.x:
+
 * Spotify-style lockscreen
 * Bluetooth album artwork
 * Media button events
 * User-interface improvements
 
-##### v1.2.x:
+##### v1.3.x:
 
 * Slack interactive messages
 
-##### v1.3.x:
+##### v1.4.x:
 
 * Spotify Radio fallback
 
