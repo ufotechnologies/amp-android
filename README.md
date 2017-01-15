@@ -32,18 +32,22 @@ Create your [Custom Search Engine](https://www.google.com/cse/) configured to [S
 
 ##### v1.2.x:
 
+* Deezer support
+
+##### v1.3.x:
+
 * Spotify-style lockscreen
 * Bluetooth album artwork
 * Media button events
 * User-interface improvements
 
-##### v1.3.x:
+##### v1.4.x:
 
 * Slack interactive messages
 
-##### v1.4.x:
+##### v1.5.x:
 
-* Spotify Radio fallback
+* Radio fallback
 
 ##### v2.0.x:
 
