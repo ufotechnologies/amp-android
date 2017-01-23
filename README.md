@@ -9,6 +9,7 @@
 * Integration with [Twitter Streaming API](https://dev.twitter.com/streaming/overview)
 * Integration with [Google CSE API](https://developers.google.com/custom-search/json-api/v1/overview) for spelling correction
 * Post to an Amp URL
+* Sync playback from an Amp URL
 * Create [Spotify tracksets](https://developer.spotify.com/technologies/widgets/spotify-play-button/)
 
 ## Remarks
@@ -32,20 +33,16 @@ Create your [Custom Search Engine](https://www.google.com/cse/) configured to [S
 
 ##### v1.2.x:
 
-* Deezer support
-
-##### v1.3.x:
-
 * Spotify-style lockscreen
 * Bluetooth album artwork
 * Media button events
 * User-interface improvements
 
-##### v1.4.x:
+##### v1.3.x:
 
 * Slack interactive messages
 
-##### v1.5.x:
+##### v1.4.x:
 
 * Radio fallback
 
