@@ -35,13 +35,13 @@ Create your [Custom Search Engine](https://www.google.com/cse/) configured to [S
 
 ##### v1.2.x:
 
-* Android TV support
-* Receiver improvements
-* User-interface improvements
+* Slack interactive messages
 
 ##### v1.3.x:
 
-* Slack interactive messages
+* Android TV support
+* Receiver improvements
+* User-interface improvements
 
 ##### v1.4.x:
 
