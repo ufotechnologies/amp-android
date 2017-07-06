@@ -31,7 +31,6 @@ Create your [Custom Search Engine](https://www.google.com/cse/) configured to [S
 * Spotify-style lockscreen
 * Bluetooth album artwork
 * Media button events
-* User-interface improvements
 
 ##### v1.2.x:
 
